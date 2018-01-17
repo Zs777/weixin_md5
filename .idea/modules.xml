@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/jiekou.iml" filepath="$PROJECT_DIR$/.idea/jiekou.iml" />
+      <module fileurl="file://D:/PyCharmProject/untitled/.idea/untitled.iml" filepath="D:/PyCharmProject/untitled/.idea/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../weixin_xiaochengxu/.idea/weixin_xiaochengxu.iml" filepath="$PROJECT_DIR$/../weixin_xiaochengxu/.idea/weixin_xiaochengxu.iml" />
+      <module fileurl="file://D:/PyCharmProject/wx/.idea/wx.iml" filepath="D:/PyCharmProject/wx/.idea/wx.iml" />
+    </modules>
+  </component>
+</project>
